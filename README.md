@@ -12,7 +12,7 @@ Repository built and maintained by Girlscript's The Uplift Project DSA Team 11 t
 [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms
 [Algorithm Visualizer](https://algorithm-visualizer.org/) - Dozens of animated algorithms (with code), and you can also create your own  
 [Algorithms Visualization](https://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization  
-[Wikipedia - Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) - Of course!!
+[Wikipedia - Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) - Of course!!  
 [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) - Why not?!!  
 
 ## Cheat Sheets
