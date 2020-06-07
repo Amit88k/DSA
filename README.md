@@ -24,12 +24,12 @@ Repository built and maintained by Girlscript's The Uplift Project DSA Team 11 t
 [Algo Deck](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.  
 
 
-## Members: 
+## Members  
 
-### Mentor: 
+### Mentor  
 Amit Khandelwal
 
-### Participants:  
+### Participants    
 Swarnima Shishodia (swarnima.18bcs1004@abes.ac.in)  
 Srilekha Vinjamara (srilekha1912@hotmail.com)  
 Kritika kanojia (kritikakanojia790@gmail.com)  
