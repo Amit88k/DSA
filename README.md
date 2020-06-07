@@ -24,12 +24,12 @@ Repository built and maintained by Girlscript's The Uplift Project DSA Team 11 t
 [Algo Deck](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.  
 
 ## Online Coding Platforms
-[GeeksforGeeks](https://www.geeksforgeeks.org/)
-[HackerRank](https://www.hackerrank.com/)
-[HackerEarth](https://www.hackerearth.com/)
-[LeetCode](https://leetcode.com/)
-[InterviewBit](https://www.interviewbit.com/)
-[SPOJ](https://www.spoj.com/)
+[GeeksforGeeks](https://www.geeksforgeeks.org/)  
+[HackerRank](https://www.hackerrank.com/)  
+[HackerEarth](https://www.hackerearth.com/)  
+[LeetCode](https://leetcode.com/)  
+[InterviewBit](https://www.interviewbit.com/)  
+[SPOJ](https://www.spoj.com/)  
 
 ## Members  
 
