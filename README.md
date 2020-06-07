@@ -1,4 +1,5 @@
 # The-Uplift-Project
+Repository built and maintained by Girlscript's The Uplift Project DSA Team 11 to share daily status.
 
 
 ## Websites
@@ -21,3 +22,22 @@
 [Rice university DS couse in short](https://www.clear.rice.edu/comp160/data1.html)  
 [Useful Reddit thread](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)  
 [Algo Deck](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.  
+
+
+##Members: 
+
+###Mentor: 
+Amit Khandelwal
+
+###Participants:  
+Swarnima Shishodia (swarnima.18bcs1004@abes.ac.in)  
+Srilekha Vinjamara (srilekha1912@hotmail.com)  
+Kritika kanojia (kritikakanojia790@gmail.com)  
+Swarina Jaiswal (swarinajaiswal@gmail.com)  
+Suchit Kumar (surajsuchit1999@gmail.com)  
+Tejaswi (2018ucs0090@iitjammu.ac.in)  
+Sumit Pandey (sumitp2398@gmail.com)  
+Tapan Mehta (tapanmanishmehta@gmail.com)  
+Sonali Shakya (sonalishakya111@gmail.com)  
+Amay Saxena (saxenaamay00147@gmail.com)  
+
