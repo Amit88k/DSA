@@ -5,7 +5,8 @@
 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)   
 [https://workshape.github.io/visual-graph-algorithms/](https://workshape.github.io/visual-graph-algorithms/) - Interactive visualisations for learning how graph traversal algorithms work  
 [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science  
-[Code-Drills](https://recommender.codedrills.io/tools/comparator) - Practice problems recommender (includes Codeforces, Codechef and Spoj) [Sorting Algorithms](https://www.toptal.com/developers/sorting-algorithms) - Nice and simple animations of sorting algorithms. With short codes and discussions.  
+[Code-Drills](https://recommender.codedrills.io/tools/comparator) - Practice problems recommender (includes Codeforces, Codechef and Spoj)..
+[Sorting Algorithms](https://www.toptal.com/developers/sorting-algorithms) - Nice and simple animations of sorting algorithms. With short codes and discussions.  
 [Stoimen's web log](http://www.stoimen.com/) - Some algorithms nicely explained  
 [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms
 [Algorithm Visualizer](https://algorithm-visualizer.org/) - Dozens of animated algorithms (with code), and you can also create your own  
