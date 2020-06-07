@@ -23,6 +23,13 @@ Repository built and maintained by Girlscript's The Uplift Project DSA Team 11 t
 [Useful Reddit thread](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)  
 [Algo Deck](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.  
 
+## Online Coding Platforms
+[GeeksforGeeks](https://www.geeksforgeeks.org/)
+[HackerRank](https://www.hackerrank.com/)
+[HackerEarth](https://www.hackerearth.com/)
+[LeetCode](https://leetcode.com/)
+[InterviewBit](https://www.interviewbit.com/)
+[SPOJ](https://www.spoj.com/)
 
 ## Members  
 
