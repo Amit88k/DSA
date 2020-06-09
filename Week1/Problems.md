@@ -22,9 +22,9 @@ https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-in
      *  
      
 5.	Kaju Katli (For odd I/P only)(Eg:n=3)     
-          *  
+          *    
          * *  
-        * * *  
+        * * *    
          * *  
           *  
 
@@ -65,9 +65,9 @@ Input:  x = 2, y = 3, p = 5
 Output: 3  
 Explanation: 2^3 % 5 = 8 % 5 = 3.  
 
-Input:  x = 2, y = 5, p = 13  
-Output: 6  
-Explanation: 2^5 % 13 = 32 % 13 = 6.  
+Input:  x = 2, y = 5, p = 13    
+Output: 6    
+Explanation: 2^5 % 13 = 32 % 13 = 6.    
 
 14.	https://practice.geeksforgeeks.org/problems/prime-number/0   
 
