@@ -16,7 +16,11 @@ https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-in
 </pre>
  
 3.b. Upward centered (Eg: n=3)  
- 
+<pre>
+  *  
+ * *  
+* * *  
+</pre>
      
 4.	Downward Star Triangle with n lines (Eg: n=4)  
 
