@@ -4,29 +4,23 @@ https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-in
 
 ### Problems:   
 1.	Take a I/P number, print its square  
+
 2.	Take a I/P number, print its table  
-     (eg: if n=3: Print: 3x1=3 3x2=6 ... 3x10=30)   
+     (eg: if n=3: Print: 3x1=3 3x2=6 ... 3x10=30)  
+     
 3.	Upward Star Triangle with n lines (n: I/P) (Eg: n=3)  
      *  
      * *  
      * * *  
+     
 3.b. Upward centered (Eg: n=3)  
-       *  
-      * *  
-     * * *   
+ 
      
 4.	Downward Star Triangle with n lines (Eg: n=4)  
-     * * * *   
-     * * *   
-     * *  
-     *  
+
      
 5.	Kaju Katli (For odd I/P only)(Eg:n=3)     
-          *    
-         * *  
-        * * *    
-         * *  
-          *  
+
 
 6.	Take N(number of rows), print the following pattern( ex: N=4)  
      0  
