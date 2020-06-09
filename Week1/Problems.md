@@ -23,10 +23,21 @@ https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-in
 </pre>
      
 4.	Downward Star Triangle with n lines (Eg: n=4)  
+<pre>
+* * * *  
+* * *     
+* *    
+*  
+</pre>
 
-     
-5.	Kaju Katli (For odd I/P only)(Eg:n=3)     
-
+5.	Kaju Katli (For odd I/P only)(Eg:n=3)    
+<pre>
+  *  
+ * *    
+* * *      
+ * *    
+  *   
+</pre>
 
 6.	Take N(number of rows), print the following pattern( ex: N=4)  
      0  
