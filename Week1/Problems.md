@@ -9,9 +9,7 @@ https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-in
      (eg: if n=3: Print: 3x1=3 3x2=6 ... 3x10=30)  
      
 3.	Upward Star Triangle with n lines (n: I/P) (Eg: n=3)  
-     *  
-     * *  
-     * * *  
+
      
 3.b. Upward centered (Eg: n=3)  
  
