@@ -39,25 +39,31 @@ https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-in
   *   
 </pre>
 
-6.	Take N(number of rows), print the following pattern( ex: N=4)  
+6.	Take N(number of rows), print the following pattern( ex: N=4)
+     <pre>  
      0  
      1 1  
      2 3 5  
      8 13 21 34  
+     </pre>  
     
 7.	Take N(number of rows), print following pattern (N=4) 
+     <pre>
      1           1    
      1 2       2 1  
      1 2 3   3 2 1    
      1 2 3 4 3 2 1  
+     </pre>  
     
 8.	Take N(number of rows), print following pattern (N=5)  
+     <pre>  
      1 2 3 4 5  
      1 2 3 4 *  
      1 2 3 * * *  
      1 2 * * * * *  
      1 * * * * * * *  
-    
+     </pre>
+     
 9.	Factorials of large numbers  
 https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0  
 
