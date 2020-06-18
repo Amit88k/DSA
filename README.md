@@ -33,8 +33,8 @@ Repository built and maintained by Girlscript's The Uplift Project DSA Team 11 t
 
 ## Guidelines to contribute
 <pre>
-* Create a directory with your name in the respective problem directory.  
-* Upload solution files in your directory in respective problem directory.  
+* Create a directory with your name in the respective week's problem directory.  
+* Upload solution files along with the screen shot of otput in your directory in respective week's problem directory.  
 * Upload solution files with name of file that includes problem no. with extension of language you have used.  
 * Practice uploading well commented code for others to easily understand.  
 * Make sure whatever you do, you do in your own direcotry in respective problem and no other file/directory is deleted or tampered due to your submission.  
