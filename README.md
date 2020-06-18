@@ -44,7 +44,10 @@ Repository built and maintained by Girlscript's The Uplift Project DSA Team 11 t
 ## Members  
 
 ### Mentor  
-Amit Khandelwal
+Amit Khandelwal (amit88khandelwal@gmail.com)  
+
+### Moderator
+Vani Gupta (topcoder69@gmail.com)  
 
 ### Participants    
 Swarnima Shishodia (swarnima.18bcs1004@abes.ac.in)  
@@ -60,3 +63,4 @@ Amay Saxena (saxenaamay00147@gmail.com)
 Yash kumar Bandhiye (yk267164@gmail.com)  
 Tarun agarwal (tarunagarwal27.99@gmail.com)  
 Tannu Kumari (tannuchoudhary10@gmail.com)
+
