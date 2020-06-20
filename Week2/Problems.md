@@ -38,5 +38,5 @@ Output: gek
 Input: learning data structures and algorithms is important  
 Output: learnig dt stuc ohm po  
 
-You can connect me here: www.linkedin.com/in/amit--khandelwal
-In free time, you can follow me here: https://medium.com/life-in-short
+You can connect me here: www.linkedin.com/in/amit--khandelwal  
+In free time, you can follow me here: https://medium.com/life-in-short  
