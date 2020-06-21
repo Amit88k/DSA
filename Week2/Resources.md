@@ -15,3 +15,7 @@
 3. Compare two strings: https://www.geeksforgeeks.org/compare-two-strings-in-java/ 
 4. Strings: Introduction (Strting Concepts): https://www.hackerrank.com/topics/strings-introduction  
 5. How to Initialize and Compare Strings in Java?: https://www.geeksforgeeks.org/how-to-initialize-and-compare-strings-in-java/  
+
+
+You can connect me here: www.linkedin.com/in/amit--khandelwal  
+In free time, you can follow me here: https://medium.com/life-in-short  
