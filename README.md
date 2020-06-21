@@ -45,6 +45,7 @@ Repository built and maintained by Girlscript's The Uplift Project DSA Team 11 t
 
 ### Mentor  
 Amit Khandelwal (amit88khandelwal@gmail.com)  
+Anahita Singla (anahitasingla.as@gmail.com)
 
 ### Moderator
 Vani Gupta (topcoder69@gmail.com)  
