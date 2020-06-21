@@ -8,7 +8,6 @@ void simpleSieve(int limit, vector<int> &prime)
     {
         if (mark[p] == true)
         {
-            for (int i=p*2; i<limit; i+=p)
                 mark[i] = false;
         }
     }
