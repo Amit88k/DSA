@@ -33,11 +33,17 @@ Repository built and maintained by Girlscript's The Uplift Project DSA Team 11 t
 
 ## Guidelines to contribute
 <pre>
-* Create a directory with your name in the respective week's problem directory.  
-* Upload solution files along with the screen shot of otput in your directory in respective week's problem directory.  
-* Upload solution files with name of file that includes problem no. with extension of language you have used.  
-* Practice uploading well commented code for others to easily understand.  
-* Make sure whatever you do, you do in your own direcotry in respective problem and no other file/directory is deleted or tampered due to your submission.  
+1. Cloning git repo -> git clone git@github.com:Amit88k/The-Uplift-Project-DSA.git  
+2. Ckeck all the branches -> git branch -r  
+3. switch to the corrosponding week branch -> git switch -c [Week branch] => e.g. git switch -c Week1  
+4. Go into the directory - [WeekNumber]   
+5. Command to go inside the directory -> cd WeekNumber  
+6. Add all the files that you want -> git add file1 file2  [if you want to all the files use * instead of files names]  
+7. commit with message-> got commit -m "message"  
+8. push to the repo -> git push --set-upstream origin [Week branch] => git push --set-upstream origin Week1  
+7. Raise the pull request  
+
+NOTE: *Make sure whatever you do, you do in your own direcotry in respective problem and no other file/directory is deleted or tampered due to your submission.   
 </pre>
 
 
