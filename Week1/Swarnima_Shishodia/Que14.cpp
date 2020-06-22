@@ -1,3 +1,6 @@
+//To check whether n  is prime or not
+/*Logic- All prime numbers can be represented in the form of 6k+1 and 6k-1 except 2 and 3 and does not get divided by a number which is represented as 6k-1
+and 6k+1*/
 #include<iostream>
 using namespace std;
 int main()
@@ -10,7 +13,7 @@ int main()
         if(n==1)
             cout<<"No"<<endl;
         else if(n==2 || n==3)
-            cout<<"Yes"<<endl;
+            cout<<"Yes"<<endl; //To print 2 and 3
         else if(n%2==0 && n%3==0)
             cout<<"No"<<endl;
         else

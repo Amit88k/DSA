@@ -1,3 +1,4 @@
+//Segmented sieve is used when we need to print the prime in a given range because simple sieve is not memory efficient
 #include <bits/stdc++.h>
 using namespace std;
 void simpleSieve(int limit, vector<int> &prime)
@@ -8,7 +9,8 @@ void simpleSieve(int limit, vector<int> &prime)
     {
         if (mark[p] == true)
         {
-                mark[i] = false;
+            for (int i=p*2; i<limit; i=i+p)
+                mark[i] = false;//Mark the composite number as false
         }
     }
     for (int p=2; p<limit; p++)

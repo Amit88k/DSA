@@ -7,11 +7,11 @@ int main()
 
     for(i=0;i<n;i++)
     {
-        for(j=1;j<=n-i;j++)
+        for(j=1;j<=n-i;j++)// To print number
             cout<<j<<" ";
-        if(i!=0)
+        if(i!=0) // To print stars after 1st line
         {
-        for(j=1;j<=star;j++)
+        for(j=1;j<=star;j++)// In each row stars get increased by 2
             cout<<"* ";
         star=star+2;
         }

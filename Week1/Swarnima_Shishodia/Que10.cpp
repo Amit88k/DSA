@@ -1,5 +1,7 @@
+// To calculate gcd of a number
 #include<iostream>
 using namespace std;
+
 int gcd(int num1,int num2)
 {
     if(num2==0)
