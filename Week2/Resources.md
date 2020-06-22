@@ -17,5 +17,10 @@
 5. How to Initialize and Compare Strings in Java?: https://www.geeksforgeeks.org/how-to-initialize-and-compare-strings-in-java/  
 
 
+### Python
+1. Python String: https://www.geeksforgeeks.org/python-strings/  
+
+
+
 You can connect me here: www.linkedin.com/in/amit--khandelwal  
 In free time, you can follow me here: https://medium.com/life-in-short  
