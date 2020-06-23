@@ -38,5 +38,27 @@ Output: gek
 Input: learning data structures and algorithms is important  
 Output: learnig dt stuc ohm po  
 
+# Intermediate Level  [Solve using Brute Force]
+## 1. Longest Even Length Substring  
+### [Microsoft]  
+Problem: For given string ‘str’ of digits, find length of the longest substring of ‘str’, such that the length of the substring is 2k digits and sum of left k digits is equal to the sum of right k digits.   
+Input: 000000   
+Output: 6   
+Input: 1234123   
+Output: 4  
+Reference: https://www.geeksforgeeks.org/longest-even-length-substring-sum-first-second-half/  
+
+## 2. Betting game  
+### [Amazon]  
+Problem: https://practice.geeksforgeeks.org/problems/betting-game/0  
+
+## 3. Longest Palindrome in a String  
+### [Accolite, Amazon, Groupon, MakrMyTrip, Microsoft, Qualcomm, Samsung, Visa, Walmart, Zoho]  
+Problem: https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0  
+
+## 4. Divisible by 8  
+### [Citirx]  
+problem: https://practice.geeksforgeeks.org/problems/divisible-by-8/0  
+
 You can connect me here: www.linkedin.com/in/amit--khandelwal  
 In free time, you can follow me here: https://medium.com/life-in-short  
