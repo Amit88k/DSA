@@ -34,8 +34,8 @@ Repository built and maintained by Girlscript's The Uplift Project DSA Team 11 t
 ## Guidelines to contribute
 <pre>
 1. Cloning git repo -> git clone git@github.com:Amit88k/The-Uplift-Project-DSA.git  
-2. Ckeck all the branches -> git branch -r  
-3. switch to the corrosponding week branch -> git switch -c [Week branch] => e.g. git switch -c Week1  
+2. Check all the branches -> git branch -r  
+3. switch to the corresponding week branch -> git switch -c [Week branch] => e.g. git switch -c Week1  
 4. Go into the directory - [WeekNumber]   
 5. Command to go inside the directory -> cd WeekNumber  
 6. Add all the files that you want -> git add file1 file2  [if you want to all the files use * instead of files names]  
