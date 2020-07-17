@@ -43,7 +43,7 @@ Repository built and maintained by Girlscript's The Uplift Project DSA Team 11 t
 8. push to the repo -> git push --set-upstream origin [Week branch] => git push --set-upstream origin Week1  
 7. Raise the pull request  
 
-NOTE: *Make sure whatever you do, you do in your own direcotry in respective problem and no other file/directory is deleted or tampered due to your submission .   
+NOTE: *Make sure whatever you do, you do in your own direcotry in respective problem and no other file/directory is deleted or tampered due to your submission.   
 </pre>
 
 
