@@ -39,7 +39,7 @@ Repository built and maintained by Girlscript's The Uplift Project DSA Team 11 t
 4. Go into the directory - [WeekNumber]   
 5. Command to go inside the directory -> cd WeekNumber  
 6. Add all the files that you want -> git add file1 file2  [if you want to all the files use * instead of files names]  
-7. commit with message-> got commit -m "message"  
+7. commit with message-> git commit -m "message"  
 8. push to the repo -> git push --set-upstream origin [Week branch] => git push --set-upstream origin Week1  
 7. Raise the pull request  
 
