@@ -45,29 +45,3 @@ Repository built and maintained by Girlscript's The Uplift Project DSA Team 11 t
 
 NOTE: *Make sure whatever you do, you do in your own direcotry in respective problem and no other file/directory is deleted or tampered due to your submission.   
 </pre>
-
-
-## Members  
-
-### Mentor  
-Amit Khandelwal (amit88khandelwal@gmail.com)  
-Anahita Singla (anahitasingla.as@gmail.com)
-
-### Moderator
-Vani Gupta (topcoder69@gmail.com)  
-
-### Participants    
-Swarnima Shishodia (swarnima.18bcs1004@abes.ac.in)  
-Srilekha Vinjamara (srilekha1912@hotmail.com)  
-Kritika kanojia (kritikakanojia790@gmail.com)  
-Swarina Jaiswal (swarinajaiswal@gmail.com)  
-Suchit Kumar (surajsuchit1999@gmail.com)  
-Tejaswi (2018ucs0090@iitjammu.ac.in)  
-Sumit Pandey (sumitp2398@gmail.com)  
-Tapan Mehta (tapanmanishmehta@gmail.com)  
-Sonali Shakya (sonalishakya111@gmail.com)  
-Amay Saxena (saxenaamay00147@gmail.com)  
-Yash kumar Bandhiye (yk267164@gmail.com)  
-Tarun agarwal (tarunagarwal27.99@gmail.com)  
-Tannu Kumari (tannuchoudhary10@gmail.com)
-
