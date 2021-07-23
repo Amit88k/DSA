@@ -1,5 +1,5 @@
-# The-Uplift-Project
-Repository built and maintained by Girlscript's The Uplift Project DSA Team 11 to share daily status.
+# One Problem Daily
+Repository built and maintained to share daily data structure and algorithm status.
 
 
 ## Websites
