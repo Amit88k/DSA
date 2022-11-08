@@ -33,7 +33,7 @@ Repository built and maintained to share daily data structure and algorithm stat
 
 ## Guidelines to contribute
 <pre>
-1. Cloning git repo -> git clone git@github.com:Amit88k/The-Uplift-Project-DSA.git  
+1. Cloning git repo -> https://github.com/Amit88k/DSA.git
 2. Check all the branches -> git branch -r  
 3. switch to the corresponding week branch -> git switch -c [Week branch] => e.g. git switch -c Week1  
 4. Go into the directory - [WeekNumber]   
