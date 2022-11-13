@@ -125,6 +125,9 @@ def countInversions(arr):
 #     return result
 
 
+#####################REFER THIS LINK
+## https://www.geeksforgeeks.org/inversion-count-in-array-using-merge-sort/
+
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
