@@ -17,17 +17,28 @@ import sys
 #
 
 def pairs(k, arr):
-    unique_no = set()
+    # #Method 1 -> This method will give you unique pairs
+    # a = list(arr)
+    # # make a set of all a[i] + k
+    # b = list(x + k for x in arr)
+    # # return the length of the intersection set
+    # return len(a&b)
+    # # return len(set(a).intersection(b))
+
+    # Method 2 -> This methid will give you all the pairs count
+    unique_no = {}
     count = 0
     for i in range(len(arr)):
         lower_no = arr[i] - k
         upper_no = arr[i] + k
-        if lower_no in unique_no:
-            count += 1
-        if upper_no in unique_no:
-            count += 1
-        unique_no.add(arr[i])
-
+        if lower_no in unique_no.keys():
+            count += unique_no[lower_no]
+        if upper_no in unique_no.keys():
+            count += unique_no[upper_no]
+        if arr[i] in unique_no.keys():
+            unique_no[arr[i]] += 1
+        else:
+            unique_no[arr[i]] = 1
     return count
 
 
